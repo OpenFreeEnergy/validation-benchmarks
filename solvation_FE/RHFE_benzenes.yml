@@ -1,0 +1,176 @@
+lig_1:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.1'
+  id: '1'
+  iupac: 1,2-dimethoxybenzene
+  name: _O6T
+  smiles: COc1ccccc1OC
+  type: hydration FE
+  unit: kcal/mol
+  value: '-5.33'
+lig_10:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '10'
+  iupac: 1,4-dimethylnaphthalene
+  name: G078
+  smiles: Cc1ccc(C)c2ccccc12
+  type: hydration FE
+  unit: kcal/mol
+  value: '-2.82'
+lig_11:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.19'
+  id: '11'
+  iupac: cyclohexa-2,5-diene-1,4-dione
+  name: G277
+  smiles: O=C1C=CC(=O)C=C1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-5.78'
+lig_12:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '12'
+  iupac: 1,3,5-trimethylbenzene
+  name: M030
+  smiles: Cc1cc(C)cc(C)c1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-1.21'
+lig_13:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '13'
+  iupac: 2-chloroaniline
+  name: M097
+  smiles: Nc1ccccc1Cl
+  type: hydration FE
+  unit: kcal/mol
+  value: '-4.91'
+lig_14:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '14'
+  iupac: N-methylaniline
+  name: M218
+  smiles: CNc1ccccc1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-4.69'
+lig_15:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.20'
+  id: '15'
+  iupac: Benzylbromide
+  name: S002
+  smiles: BrCc1ccccc1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-2.38'
+lig_16:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '16'
+  iupac: pyridine-4-carbaldehyde
+  name: TVVS
+  smiles: O=Cc1ccncc1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-7.00'
+lig_2:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.25'
+  id: '2'
+  iupac: (2R,5R)-2-methyl-5-prop-1-en-2-ylcyclohexan-1-one
+  name: _O70
+  smiles: C=C(C)[C@@H]1CC[C@@H](C)C(=O)C1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-2.53'
+lig_3:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.28'
+  id: '3'
+  iupac: (1S,5R)-2-methyl-5-prop-1-en-2-ylcyclohex-2-en-1-ol
+  name: _O71
+  smiles: C=C(C)[C@@H]1CC=C(C)[C@@H](O)C1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-3.20'
+lig_4:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '4'
+  iupac: cyclopentanone
+  name: _P8I
+  smiles: O=C1CCCC1
+  type: hydration FE
+  unit: kcal/mol
+  value: -4.70,
+lig_5:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.29'
+  id: '5'
+  iupac: 1-amino-4-hydroxyanthracene-9,10-dione
+  name: 6J29
+  smiles: Nc1ccc(O)c2c1C(=O)c1ccccc1C2=O
+  type: hydration FE
+  unit: kcal/mol
+  value: '-9.5'
+lig_6:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.6'
+  id: '6'
+  iupac: 3-methoxyphenol
+  name: 6KET
+  smiles: COc1cccc(O)c1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-7.66'
+lig_7:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.1'
+  id: '7'
+  iupac: (1R,2S,3R,4R,6S,7S)-1,3,4,7,8,9,10,10-octachlorotricyclo[5.2.1.02,6]dec-8-ene
+  name: '8018'
+  smiles: ClC1=C(Cl)[C@]2(Cl)[C@H]3C[C@@H](Cl)[C@H](Cl)[C@H]3[C@@]1(Cl)C2(Cl)Cl
+  type: hydration FE
+  unit: kcal/mol
+  value: '-3.44'
+lig_8:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.6'
+  id: '8'
+  iupac: '[1,2,2-Trifluoroethoxy]benzene'
+  name: E1VB
+  smiles: FC(F)[C@@H](F)Oc1ccccc1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-1.29'
+lig_9:
+  comment: 'united atom, Fig. 13 and Table S2 '
+  doi: 10.1007/s10822-022-00445-6
+  error: '0.60'
+  id: '9'
+  iupac: 4-methoxyaniline
+  name: F313
+  smiles: COc1ccc(N)cc1
+  type: hydration FE
+  unit: kcal/mol
+  value: '-7.48'
